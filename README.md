@@ -15,12 +15,12 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ᴏʟɪᴠɪᴀ ✘
 ━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
-<a href="https://github.com/SaeedGoraya/OliviaMusicRoBot/stargazers"><img src="https://img.shields.io/github/stars/SaeedGoraya/OliviaMusicRoBot?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/SaeedGoraya/OliviaMusicRoBot/network/members"> <img src="https://img.shields.io/github/forks/SaeedGoraya/OliviaMusicRoBot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/SaeedGoraya/OliviaMusicRoBot/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/SaeedGoraya/OliviaMusicRoBot/stargazers"><img src="https://img.shields.io/github/stars/jack77force/OliviaMusicRoBot?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/SaeedGoraya/OliviaMusicRoBot/network/members"> <img src="https://img.shields.io/github/forks/jack77force/OliviaMusicRoBot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/jack77force/OliviaMusicRoBot/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-skyblue?style=for-the-badge&logo=python" alt="Python" /> </a>
 <a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=white&label=pyrogram&logo=python&logoColor=blue&style=for-the-badge" /></a>
-<a href="https://github.com/SaeedGoraya/OliviaMusicRoBot/commits/SaeedGoraya"> <img src="https://img.shields.io/github/last-commit/SaeedGoraya/OliviaMusicRoBot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/jack77force/OliviaMusicRoBot/commits/SaeedGoraya"> <img src="https://img.shields.io/github/last-commit/jack77force/OliviaMusicRoBot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
 </p>
 
 ━━━━━━━━━━━━━━━━━━━━
@@ -37,7 +37,7 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ᴏʟɪᴠɪᴀ ✘
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/SaeedGoraya/OliviaMusicRoBot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/jack77force/OliviaMusicRoBot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 <details>
 <summary><h3>
